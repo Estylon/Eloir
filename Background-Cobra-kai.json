@@ -1,0 +1,259 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "Cobra Kai Background",
+				"abbreviation": "Brew",
+				"color": "ff00ff",
+				"full": "Luca C",
+				"authors": [
+					"Luca C"
+				],
+				"version": "1.0.0",
+				"url": "https://github.com/Estylon/Eloir",
+				"targetSchema": "1.0.0"
+			}
+		],
+		"dateAdded": 0,
+		"dateLastModified": 0
+	},
+	"background": [
+		{
+			"name": "Cobra Kai",
+			"source": "Cobra Kai Background",
+			"skillProficiencies": [
+				{
+					"athletics": true,
+					"acrobatic": true
+				}
+			],
+			"entries": [
+				{
+					"type": "list",
+					"style": "list-hang-notitle",
+					"items": [
+						{
+							"type": "item",
+							"name": "Skill Proficiencies",
+							"entry": "{@skill Athletics}, {@skill Acrobatic}"
+						},
+						{
+							"type": "item",
+							"name": "Tool Proficiencies",
+							"entry": "Herbalism kit"
+						},
+						{
+							"type": "item",
+							"name": "Equipment",
+							"entry": "Un Kimono, un immagine del fondatore del Cobra Kai, e un borsello contenente 5 gp"
+						}
+					]
+				},
+				{
+					"name": "Feature: Membro originale del Cobra Kai",
+					"type": "entries",
+					"entries": [
+						"Prima di entrare nel Cobra Kai eri un membro della malavita e prigioniero nella prigione di Rentotene. Hai un contatto affidabile e degno di fiducia che funge da collegamento con una rete di altri criminali. Sai come far arrivare i messaggi al e dal tuo contatto, anche su grandi distanze; in particolare, conosci i messaggeri locali, i carovanieri corrotti e gli squallidi marinai che possono consegnare i messaggi per te."
+					],
+					"data": {
+						"isFeature": true
+					}
+				},
+				{
+					"name": "Suggested Characteristics",
+					"type": "entries",
+					"entries": [
+						"Come membro originale del Cobra Kai sei una persona che è stata reclutata da Vis durante la ribellione del regno di Solastra, sei un ex galeotto oppure un ragazzo di strada dei paesi dove la ribellione ha avuto luogo.",
+						{
+							"type": "table",
+							"colLabels": [
+								"d8",
+								"Personality Trait"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"Giudico le persone dalle loro azioni, non dalle loro parole."
+								],
+								[
+									"2",
+									"Se un nemico è a terra lo finisco senza pietà."
+								],
+								[
+									"3",
+									"Il rispetto per il mio sensei e il mio dojo viene prima di ogni altra cosa."
+								],
+								[
+									"4",
+									"Se noto una debolezza nel mio avversario la sfrutto per avere un vantaggio nella lotta."
+								],
+								[
+									"5",
+									"Sono confidente nelle mie capacità e trasmetto questo senso di confidenza ai miei alleati."
+								],
+								[
+									"6",
+									"A differenza di altri preferisco agire piuttosto che riflettere."
+								],
+								[
+									"7",
+									"Uso parole lunghe e frasi complesse per risultare forbito."
+								],
+								[
+									"8",
+									"Non riesco a stare fermo troppo tempo in un determinato luogo, dopotutto Vis ci ha detto di espanderci nel mondo."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Ideal"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"Rispetto. Le persone meritano di essere trattate con dignità e rispetto. (Good)"
+								],
+								[
+									"2",
+									"Equità. Nessuno dovrebbe avere un trattamento preferenziale davanti alla legge, e nessuno è al di sopra della legge. (Lawful)"
+								],
+								[
+									"3",
+									"La libertà. Non si deve permettere ai tiranni di opprimere il popolo. (Chaotic)"
+								],
+								[
+									"4",
+									"Potere. Se divento forte, posso prendere quello che voglio, quello che merito. (Evil)"
+								],
+								[
+									"5",
+									"La sincerità. Non serve fingere di essere qualcosa che non sono. (Neutral)"
+								],
+								[
+									"6",
+									"Il destino. Niente e nessuno può allontanarmi dalla mia vocazione superiore. (Any)"
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Bond"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"Ho una famiglia, ma non ho idea di dove siano. Un giorno spero di rivederli."
+								],
+								[
+									"2",
+									"Amo il mio Dojo e i miei ragazzi, li proteggerò a costo della vita."
+								],
+								[
+									"3",
+									"Una volta un nobile orgoglioso mi ha picchiato orribilmente, e io mi vendicherò di qualsiasi bullo che incontrerò."
+								],
+								[
+									"4",
+									"Le mie catene sono simboli della mia vita passata e le porto con me per non dimenticare mai le mie radici."
+								],
+								[
+									"5",
+									"Io proteggo coloro che non possono proteggersi da soli."
+								],
+								[
+									"6",
+									"Vorrei che il mio amore d'infanzia fosse venuto con me per seguire il mio destino."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Flaw"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"Un vecchio rivale che ho sconfitto non si fermerà davanti a nulla per vedermi ucciso."
+								],
+								[
+									"2",
+									"Sono convinto dell'importanza del mio destino, e cieco ai miei difetti e al rischio di fallimento."
+								],
+								[
+									"3",
+									"Le persone che mi hanno conosciuto quando ero giovane conoscono il mio vergognoso segreto, quindi non posso più tornare a casa."
+								],
+								[
+									"4",
+									"Ho un debole per i vizi della città, soprattutto per le bevande alcoliche e le donne/uomini."
+								],
+								[
+									"5",
+									"Segretamente, credo che le cose andrebbero meglio se fossi un tiranno che governa la terra."
+								],
+								[
+									"6",
+									"Ho problemi a fidarmi dei miei alleati."
+								]
+							]
+						}
+					]
+				}
+			],
+			"toolProficiencies": [
+				{
+					"herbalism kit": true,
+					"vehicles (land)": true
+				}
+			],
+			"startingEquipment": [
+				{
+					"a": [
+						{
+							"special": "kimono"
+						}
+					],
+					"b": [
+						{
+							"special": "immagine di Vis"
+						}
+					]
+				},
+				{
+					"_": [
+						{
+							"special": "common clothes"
+						},
+						{
+							"special": "pouch",
+							"containsValue": 500
+						}
+					]
+				}
+			]
+		}
+	]
+}
